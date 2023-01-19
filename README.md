@@ -33,14 +33,14 @@ Python is a popular, easy-to-learn, and very powerful programming language, whic
 16.2 Get Notified!  
 17.1 Working with Input   
 17.2 Identity Cards  
-18.1 In-Place Operators 
-19.1 Module 3 Quiz
+18.1 In-Place Operators   
+19.1 Module 3 Quiz  
 20.1 Code project  
 ### Control Flow
 21.1 Booleans & Comparisons  
 22.1 if Statements  
-22.2 Pure Gold
-23.1 else Statements  
+22.2 Pure Gold  
+23.1 else Statements     
 23.2 Leap year  
 24.1 Boolean Logic   
 24.2 24K Magic  
@@ -61,9 +61,9 @@ Python is a popular, easy-to-learn, and very powerful programming language, whic
 32.2 Let's go Shopping!  
 33.1 Ranges  
 33.2 Nearest Bathroom  
-34.1 List Slices
-34.1 Flip The String
-35.1 Module 5 Quiz 
+34.1 List Slices  
+34.1 Flip The String  
+35.1 Module 5 Quiz   
 36.1 Code project
 ### Functions
 37.1 Functions   
@@ -74,8 +74,8 @@ Python is a popular, easy-to-learn, and very powerful programming language, whic
 40.1 Making your Own Functions  
 41.1 Function Arguments   
 41.2 From Feet to Inches  
-42.1 Returning from Funtions 
+42.1 Returning from Funtions  
 42.2 How Many Letters?  
 43.1 Comments & Docstrings  
 44.1 Module 6 Quiz  
-45.1 Code project  
+45.1 Code project   
