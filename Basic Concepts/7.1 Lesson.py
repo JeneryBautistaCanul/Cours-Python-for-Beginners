@@ -15,7 +15,7 @@ print((3 ** 2) // 2)
 4
 
 #Which of the following operators is used to calculate the remainder of division?
-#%
+%
 
 #Fill in the blank to output the quotient of dividing 100 by 42
 print(100 // 42)
