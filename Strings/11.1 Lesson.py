@@ -2,7 +2,7 @@
 #String Operations
 #Answers
 
-# Concatenation
+#Concatenation
 print("Spam" + 'eggs')
 
 #String of numbers
